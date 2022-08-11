@@ -47,3 +47,7 @@ Success \
 
 With No Proggress \
 ![Warn](https://cdn.discordapp.com/attachments/708302355803799602/1007379987604705320/unknown.png)  
+
+## Credits
+Original notifications are taken from [qb-core](https://github.com/qbcore-framework/qb-core)
+Big Rework Of [mystic-notify](https://github.com/izMystic/mystic-notify)

@@ -6,7 +6,7 @@ description 'torpak-notify'
 
 client_scripts {
 	'config.lua',
-	'client/main.lua'
+	'main.lua'
 }
 
 

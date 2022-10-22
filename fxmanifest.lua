@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'torpak'
+author 'Torpak'
 description 'torpak-notify'
 
 client_scripts {
